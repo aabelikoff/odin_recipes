@@ -1,0 +1,70 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /**font-weight: bold;
+    /**background-color: brown;*/
+}
+
+h1{
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+
+h2{
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+
+.heading {
+    margin-left: 26px;
+    color: brown;
+    /**-color: burlywood;*/
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+ol{
+    background-color: beige;
+    color: brown;
+    font-weight: bold;
+}
+
+li ul,
+li a {
+    color:crimson  
+}
+
+.mlist {
+    color:indigo;
+}
+
+.ingridients {
+    color: green;
+    /**background-color: forestgreen;*/
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+img.spec{
+    width: auto;
+}
+
+.centre {
+    display: block;
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: mediumturquoise;
+}
+
+div.pic{
+    background-color: rgb(72, 209, 113);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
